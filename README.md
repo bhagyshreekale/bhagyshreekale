@@ -88,7 +88,7 @@ const bhagyashree = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-kbhagyshri664%40gmail.com-58A6FF?style=flat-square&logo=gmail&logoColor=white)](mailto:kbhagyshri664@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/bhagyashree-kale](https://www.linkedin.com/in/bhagyshree-kale-07aa0b252/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhagyshree%20Kale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagyshree-kale-07aa0b252/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
 
 </div>
