@@ -1,104 +1,161 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F2937&height=180&section=header&text=Bhagyashree%20Kale&fontSize=48&fontColor=E6EDF3&fontAlignY=40&desc=Full-Stack%20Developer%20·%20MERN%20Stack%20·%20React%20Native&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
+# BHAGYASHREE KALE
+
+**FULL-STACK DEVELOPER**
+
+`MERN` · `FLUTTER` · `REACT NATIVE` · `FIREBASE`
+
+<br>
+
+![Location](https://img.shields.io/badge/-NASHIK%2C%20INDIA-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22)
+![Experience](https://img.shields.io/badge/-2%2B%20YEARS%20EXPERIENCE-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22)
+![Status](https://img.shields.io/badge/-OPEN%20TO%20WORK-1E3A2F?style=for-the-badge&labelColor=0D1117&color=1E3A2F)
+
+<br>
+
+[![Email](https://img.shields.io/badge/EMAIL-58A6FF?style=flat-square&labelColor=0D1117)](mailto:kbhagyshri664@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-58A6FF?style=flat-square&labelColor=0D1117)](https://www.linkedin.com/in/bhagyshree-kale-07aa0b252/)
 
 </div>
+
+<br>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=Architecting+scalable+full-stack+applications;MERN+Stack+%7C+React+Native+%7C+REST+APIs;Clean+code.+Real+products.+Measurable+impact.;Available+for+full-time+%26+freelance+work)](https://git.io/typing-svg)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
----
+<br>
 
-## `whoami`
+### ABOUT
 
-```ts
-const bhagyashree = {
-  role      : "Full-Stack Software Developer",
-  stack     : ["React", "Node.js", "Express.js", "MongoDB", "React Native"],
-  currently : "Building NOGS — a MERN-based gynecology society platform",
-  focus     : ["React performance optimization", "REST API design patterns"],
-  available : ["Full-time roles", "Freelance projects"],
-  contact   : "kbhagyshri664@gmail.com",
-};
-```
+Full-stack and mobile developer building production-ready web and app products across the MERN stack, Flutter, and React Native. Most recent work is client-facing — clinics, wellness centers, and local businesses that needed real, working products end to end: UI/UX, frontend, backend, and deployment.
 
----
-
-## Tech Stack
-
-**Frontend**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & Workflow**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## Featured Projects
-
-| Project | Stack | Description |
-|--------|-------|-------------|
-| 🏥 **NOGS Platform** | MERN | Gynecology society web platform — member management, events & resources |
-| 🛍️ **E-Commerce Storefront** | React · Node · MongoDB | Full-featured store with cart, payments, and admin dashboard |
-| 📱 **Healthcare Mobile App** | React Native · Express | Cross-platform patient management & appointment scheduling |
-
-> 📌 *Pinned repos below for live demos and source code.*
-
----
-
-## GitHub Stats
+<br>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BhagyashreeKale&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=E6EDF3&bg_color=0D1117" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagyashreeKale&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=E6EDF3&bg_color=0D1117" />
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
+
+<br>
+
+### STACK
+
+<table width="100%">
+<tr>
+<td width="20%"><b>LANGUAGES</b></td>
+<td>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6)
+![Dart](https://img.shields.io/badge/-Dart-161B22?style=flat-square&logo=dart&logoColor=0175C2)
+
+</td>
+</tr>
+<tr>
+<td><b>FRONTEND</b></td>
+<td>
+
+![React](https://img.shields.io/badge/-React-161B22?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-161B22?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/-Flutter-161B22?style=flat-square&logo=flutter&logoColor=02569B)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+</td>
+</tr>
+<tr>
+<td><b>BACKEND</b></td>
+<td>
+
+![Node.js](https://img.shields.io/badge/-Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express.js-161B22?style=flat-square&logo=express&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>DATABASE</b></td>
+<td>
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=4EA94B)
+![Firebase](https://img.shields.io/badge/-Firebase-161B22?style=flat-square&logo=firebase&logoColor=FFCA28)
+![MySQL](https://img.shields.io/badge/-MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1)
+
+</td>
+</tr>
+<tr>
+<td><b>TOOLING</b></td>
+<td>
+
+![Git](https://img.shields.io/badge/-Git-161B22?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-161B22?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-161B22?style=flat-square&logo=figma&logoColor=F24E1E)
+![Postman](https://img.shields.io/badge/-Postman-161B22?style=flat-square&logo=postman&logoColor=FF6C37)
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BhagyashreeKale&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA657&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
----
+<br>
 
-## Let's Connect
+### FEATURED WORK
+
+<table width="100%">
+<tr>
+<td width="30%" valign="top"><b>Bella Paralysis & Rehabilitation Centre</b><br><sub>React · Vite · Tailwind · Framer Motion</sub></td>
+<td valign="top">Production website with full SEO and JSON-LD schema, animated UI throughout.</td>
+</tr>
+<tr>
+<td valign="top"><b>Dr. Gadhave's Advanced Dental Care</b><br><sub>React · React Router</sub></td>
+<td valign="top">Multi-page clinic site — dark mode, appointment booking modal, filterable gallery.</td>
+</tr>
+<tr>
+<td valign="top"><b>Embrion IVF Centre</b><br><sub>React · i18n</sub></td>
+<td valign="top">Bilingual (Marathi/English) site with language toggle and dark/light theme system.</td>
+</tr>
+<tr>
+<td valign="top"><b>ClinicOS</b><br><sub>Flutter · Dart</sub></td>
+<td valign="top">OPD clinic management app — dashboard, scheduling, token-based appointment flow.</td>
+</tr>
+<tr>
+<td valign="top"><b>BMB</b><br><sub>React Native · Firebase</sub></td>
+<td valign="top">On-demand beautician booking app connecting clients with service providers.</td>
+</tr>
+<tr>
+<td valign="top"><b>Saiichha Repair Shop Dashboard</b><br><sub>Figma · HTML/CSS</sub></td>
+<td valign="top">16-screen management dashboard, taken from prototype to full design spec.</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-kbhagyshri664%40gmail.com-58A6FF?style=flat-square&logo=gmail&logoColor=white)](mailto:kbhagyshri664@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhagyshree%20Kale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagyshree-kale-07aa0b252/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<sub>Open to full-time opportunities and interesting freelance projects · Pune, India 📍</sub>
+### LET'S CONNECT
+
+[![Email](https://img.shields.io/badge/EMAIL-kbhagyshri664%40gmail.com-0D1117?style=for-the-badge&labelColor=161B22&color=0D1117)](mailto:kbhagyshri664@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Bhagyshree%20Kale-0077B5?style=for-the-badge&labelColor=161B22)](https://www.linkedin.com/in/bhagyshree-kale-07aa0b252/)
+
+<sub>Open to full-time roles and freelance projects · Nashik, India</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,50:161B22,100:0D1117&height=100&section=footer" width="100%"/>
